@@ -132,7 +132,7 @@ streamlit
 
 ## Author
 
-Shivansh
+Shivansh Saxena
 
 Data Science Intern
 Positiveway Solutions Pvt Ltd
